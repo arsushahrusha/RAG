@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Temp
+web_temp_uploads/
+temp_*/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.png
+
+# Ide
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Db
+*.db
+*.sqlite3
+
+# Env
+.env
+.secrets
+
+# Doc
+.docx
+.doc
+.pdf
