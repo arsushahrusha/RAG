@@ -9,8 +9,13 @@
  - Воспроизводимость результатов
  - Возможность чтения и записи данных
  
+## Инструкция по началу работы с Kaggle
+1. Установите в начале кода зависимости:
 
- ## Примеры использования
+    `!pip install langchain langchain-community langchain-text-splitters faiss-cpu sentence-transformers torch transformers pypdf docx2txt`
+3. Загрузите документы в датасет с именем `test_task` или укажите свои директории
+4. Не забудьте включить Internet и accelerator GPU T4x2
+## Примеры использования
 
 ### Сценарий 1
 
