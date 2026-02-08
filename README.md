@@ -18,11 +18,7 @@
 
 **Вопрос:** "Какая цель политики Северстали?"
 
-**Ответ системы:**  "Предотвращение и минимизация потерь АО «Северсталь Менеджмент» и управл я-
-емых им обществ от: 
-- Утечек конфиденциальной информации; 
-- Использования недостоверной, искаженной информации; 
-- Нарушения процессов обработки информации."
+**Ответ системы:**  "Предотвращение и минимизация потерь АО «Северсталь Менеджмент» и управляемых им обществ от утечек конфиденциальной информации, использования недостоверной, искаженной информации и нарушений процессов обработки информации."
 
 ### Сценарий 2
 
@@ -38,7 +34,7 @@
 
 **Вопрос:** "Who is George Draper Dayton?"
 
-**Ответ системы:** "George Draper Dayton was the founder of Target, which was originally known as Dayton Dry Goods Company. He started the business in Minnesota, United States, in 1902"
+**Ответ системы:** "George Draper Dayton was the founder of Target Corporation. He started the company as Dayton Dry Goods Company in Minnesota, US, in 1902. In 1962, the company was renamed Target with the goal of offering retail goods at a good price, with good service and a commitment to the community."
 
  (в файле results.json сохранены все примеры запросов, ответов, а также релевантные чанки)
 
